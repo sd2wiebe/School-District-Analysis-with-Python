@@ -23,9 +23,15 @@ The purpose of this analysis is to aggregate data on students' math and reading 
 
 - Before and after removing the potentially academically dishonest scores from Thomas High School, we see that they rank 2nd in "% Overall Passing" regardless. It appears that removing the grade 9 scores had a negligable impact on their schools overall performance.
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+### How replacing the ninth-grade scores affected various outputs:
+- Math and reading scores by grade:
+Of course, our ninth grade scores were replaced with "NaN"s, so there are no values anymore for Thomas High School grade 9 math and reading scores.
+
+- Scores by school spending:
+This had no affect on school spending.
+
+- Scores by school size:
+Again, the overall affects were negligable
+
+- Scores by school type:
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
