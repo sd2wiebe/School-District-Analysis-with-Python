@@ -33,6 +33,7 @@ This had no affect on school spending.
 - Scores by school size:
 Again, the overall affects were negligable
 
-- Scores by school type:
-## Summary: 
+- Scores by school type: were virtually the same
 
+## Summary: 
+All in all, the affects of changing the ninth grade reading and math scores for Thomas High School to NaNs had little affect on the analysis. Thomas High School was still the second best performing school based on overall pass rate after the change. One of the most significant changes was their "% passing reading" dropped from 86% to 85.7%. 
