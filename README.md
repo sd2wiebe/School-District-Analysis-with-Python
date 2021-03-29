@@ -19,6 +19,7 @@ The purpose of this analysis is to aggregate data on students' math and reading 
 ![alttext](https://github.com/sd2wiebe/School_District_Analysis/blob/main/Resources/topschools1.png)
 ![alttext](https://github.com/sd2wiebe/School_District_Analysis/blob/main/Resources/topschools2.png)
 </p>
+
 - Before and after removing the potentially academically dishonest scores from Thomas High School, we see that they rank 2nd in "% Overall Passing" regardless. It appears that removing the grade 9 scores had a negligable impact on their schools overall performance.
 
 How does replacing the ninth-grade scores affect the following:
