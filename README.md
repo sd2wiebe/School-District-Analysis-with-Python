@@ -34,4 +34,5 @@ This had no affect on school spending.
 Again, the overall affects were negligable
 
 - Scores by school type:
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+
