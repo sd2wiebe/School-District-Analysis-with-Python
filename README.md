@@ -10,10 +10,16 @@ The purpose of this analysis is to aggregate data on students' math and reading 
 ![alttext](https://github.com/sd2wiebe/School_District_Analysis/blob/main/Resources/District%20Summary%201.png)
 ![alttext](https://github.com/sd2wiebe/School_District_Analysis/blob/main/Resources/District%20Summary%202.png)
 </p>
+
 - As you can see above the district analysis is almost identical after removing Thomas High schools' math and reading scores. We can see that "Average math score" and "overall passing" droppped by .1, "% passing math" dropped by .2, and "% passing reading" dropped by .3. 
-- 
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+- Top Schools by % Overall passing before and after replacing Thomas High School grade 9 scores:
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/School_District_Analysis/blob/main/Resources/topschools1.png)
+![alttext](https://github.com/sd2wiebe/School_District_Analysis/blob/main/Resources/topschools2.png)
+</p>
+
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
